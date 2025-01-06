@@ -8,4 +8,4 @@ https://react-animated-portfolio-six.vercel.app/
 
 the official site of the react-portfolio
 
-https://personal-pertfolio.netlify.app/
+https://personal-portfolio-rust-xi-84.vercel.app/
