@@ -20,7 +20,7 @@ export default {
       },
       colors: {
         primary: { ...colors.slate, DEFAULT: colors.slate[500] },
-        secondary: { ...colors.yellow, DEFAULT: colors.yellow[500] },
+        secondary: { ...colors.pink, DEFAULT: colors.pink[500] },
         accent: { ...colors.blue, DEFAULT: colors.red[500] },
       },
     },
