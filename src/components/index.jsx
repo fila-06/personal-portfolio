@@ -1,0 +1,11 @@
+export { default as Footer } from "./Footer";
+export { default as Header } from "./Header";
+export { default as About } from "./About";
+export { default as Projects } from "./Projects/Projects";
+export { default as Services } from "./Services/Services";
+export { default as Skills } from "./Skills";
+export { default as Hero } from "./Hero";
+export { default as Separator } from "./Separator";
+export { default as ScrollToTop } from "./ScrollToTop";
+export { default as Navbar } from "./Navbar";
+export { default as Progress } from "./Progress";
