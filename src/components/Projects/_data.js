@@ -1,34 +1,34 @@
 const projects = [
     {
-        title: "django-react-bloging",
+        title: "Logo design using PhotoShop",
         image: "projects/art.PNG",
-        description: "lorem ..............................."
+        description: "Logo design using Photoshop creates custom, professional logos with creative concepts, refined typography, and scalable vector elements for your brand."
     },
     {
-        title: "title",
+        title: "React ToDo List",
         image: "projects/art.PNG",
-        description: "lorem ..............................."
+        description: "React ToDo List is a simple, interactive web application built with React, allowing users to add, edit, and delete tasks with an intuitive interface."
     },
     {
-        title: "title",
+        title: "React Netflix Clone",
         image: "projects/art.PNG",
-        description: "lorem ..............................."
+        description: "React Netflix Clone is a project showcasing the development of a Netflix-like web application with React, featuring dynamic UI, movie browsing, and responsive design."
     },
     {
-        title: "title",
-        image: "projects/art.PNG",
-        description: "lorem ..............................."
+        title: "Edit TikTok Videos",
+        image: "/projects/tiktok.jpeg",
+        description: "Edit TikTok Videos focuses on creating engaging, high-quality content with trendy effects, transitions, and captions tailored for TikTok."
     },
-    {
-        title: "title",
-        image: "projects/art.PNG",
-        description: "lorem ..............................."
-    },
-    {
-        title: "title",
-        image: "projects/art.PNG",
-        description: "lorem ..............................."
-    },
+    // {
+    //     title: "title",
+    //     image: "projects/art.PNG",
+    //     description: "lorem ..............................."
+    // },
+    // {
+    //     title: "title",
+    //     image: "projects/art.PNG",
+    //     description: "lorem ..............................."
+    // },
 
 ]
 export default projects

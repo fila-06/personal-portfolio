@@ -71,7 +71,7 @@ const Projects = () => {
                   {project.title}
                 </h2>
                 <p className="px-2 text-center">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.{" "}
+                 {project.description}
                 </p>
 
                 <div className="flex justify-center items-center pt-10">
