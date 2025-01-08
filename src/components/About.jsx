@@ -1,6 +1,6 @@
+import { motion } from "framer-motion";
 import fadeUp from "../utils/motion";
 import Separator from "./Separator";
-import { motion } from "framer-motion";
 
 const About = () => {
   return (
@@ -45,30 +45,35 @@ const About = () => {
               variants={fadeUp(0.5, 0, "-100%", 0)}
               className="w-full text-start px-5 py-3"
             >
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Doloribus nulla ad mollitia quam magnam earum, numquam voluptate
-              delectus tempora voluptatum tempore. Ducimus eum itaque at sed.
-              Hic velit adipisci nostrum?
+              My name is Filmon Abadi, and I am a Computer Science student with
+              a passion for creating exceptional digital experiences. As a
+              frontend developer, I specialize in building responsive and
+              interactive web interfaces that prioritize usability and
+              performance. I enjoy bringing ideas to life through clean,
+              efficient code and modern technologies.{" "}
             </motion.p>
 
             <motion.p
               variants={fadeUp(0.5, 0, "100%", 0)}
               className="w-full text-start px-5 py-3"
             >
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Doloribus nulla ad mollitia quam magnam earum, numquam voluptate
-              delectus tempora voluptatum tempore. Ducimus eum itaque at sed.
-              Hic velit adipisci nostrum?
+              In addition to frontend development, I am skilled in UX/UI design,
+              where I focus on crafting user-centered designs that enhance
+              engagement and ensure seamless navigation. I strive to create
+              intuitive and aesthetically pleasing interfaces that align with
+              the needs and goals of users.
             </motion.p>
 
             <motion.p
               variants={fadeUp(0.5, 0, "-100%", 0)}
               className="w-full text-start px-5 py-3"
             >
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Doloribus nulla ad mollitia quam magnam earum, numquam voluptate
-              delectus tempora voluptatum tempore. Ducimus eum itaque at sed.
-              Hic velit adipisci nostrum?
+              I also have a strong interest in graphics design, blending
+              creativity with technical expertise to produce impactful visuals.
+              From logos to web assets, I enjoy designing elements that
+              complement and elevate digital projects. I am always eager to
+              learn and grow, refining my skills to deliver high-quality
+              solutions.
             </motion.p>
           </motion.div>
           {/* central image */}
@@ -80,7 +85,7 @@ const About = () => {
           >
             <div className="block overflow-hidden shadow-md shadow-slate-800 rounded-full">
               <img
-                src="/meles.jpg"
+                src="/filmon.jpg"
                 alt="my image"
                 className="max-w-[500px] h-full object-cover aspect-square object-center"
               />

@@ -6,44 +6,43 @@ const services = [
       "Web App Development delivers scalable, user-focused applications with seamless functionality and intuitive design.",
     image: "./services/database.png",
   },
-  
-  
-  
+  {
+    id: 8,
+    name: "video and audio editing",
+    description:
+      "Video and Audio Editing transforms raw footage and sound into polished, professional content with seamless transitions, effects, and quality enhancements.",
+    image: "./services/database.png",
+  },
   {
     id: 4,
     name: "React Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, maxime.",
+      "React Development focuses on building fast, scalable, and dynamic web applications with reusable components for an exceptional user experience.",
     image: "./services/database.png",
   },
-  {
-    id: 5,
-    name: "Secure API Development",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, maxime.",
-    image: "./services/database.png",
-  },
+
   {
     id: 6,
-    name: "Django Development",
+    name: "UX/UI design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, maxime.",
+      "UX/UI Design crafts intuitive, user-centered interfaces that enhance usability, engagement, and overall digital experiences.",
     image: "./services/database.png",
   },
   {
     id: 7,
-    name: "System Design And Development",
+    name: "Photoshop",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, maxime.",
+      "Photoshop services enhance images through professional editing, retouching, and creative designs to bring your vision to life.",
     image: "./services/database.png",
   },
   {
     id: 8,
-    name: "API Development",
+    name: "video and audio editing",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, maxime.",
+      "Video and Audio Editing transforms raw footage and sound into polished, professional content with seamless transitions, effects, and quality enhancements.",
     image: "./services/database.png",
   },
+  
 ];
 
 export default services;

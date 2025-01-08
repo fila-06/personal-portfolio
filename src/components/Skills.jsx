@@ -1,3 +1,6 @@
+import { SiAdobephotoshop } from "react-icons/si";
+import { SiAdobexd } from "react-icons/si";
+import { FaFigma } from "react-icons/fa";
 /* eslint-disable react/prop-types */
 import { IoLogoHtml5 } from "react-icons/io";
 import Separator from "./Separator";
@@ -72,38 +75,8 @@ const skill = [
     id: 4,
     icon: <IoLogoReact color="#61DBFB" />,
   },
-  { name: "bootstrap", id: 17, icon: <FaBootstrap color="#7952B3" /> },
-  {
-    name: "Tailwind",
-    id: 5,
-    icon: <BiLogoTailwindCss color="#38BDF8" />,
-  },
-  {
-    name: "Node",
-    id: 6,
-    icon: <IoLogoNodejs color="#3C873A" />,
-  },
-  {
-    name: "Express",
-    id: 7,
-    icon: <SiExpress color="#E34F26" />,
-  },
-  {
-    name: "MongoDB",
-    id: 8,
-    icon: <SiMongodb color="#4EA" />,
-  },
-  {
-    name: "Python",
-    id: 9,
-    icon: <IoLogoPython color="#377" />,
-  },
-  {
-    name: "Django",
-    id: 10,
-    icon: <SiDjango color="#092" />,
-  },
-  { name: "C", id: 11, icon: <TbBrandCoinbase color="#F7931A" /> },
+  // { name: "bootstrap", id: 17, icon: <FaBootstrap color="#7952B3" /> },
+
   {
     name: "Git",
     id: 18,
@@ -114,25 +87,21 @@ const skill = [
     id: 12,
     icon: <FaGithub color="#333" />,
   },
+
   {
-    name: "MUI",
-    id: 13,
-    icon: <SiMui color="#007" />,
-  },
-  {
-    name: "NextUI",
-    id: 14,
-    icon: <SiNextui color="lightgray" />,
-  },
-  {
-    name: "Mysql ",
-    id: 15,
-    icon: <SiMysql color="#00796B" />,
-  },
-  {
-    name: "PostGresql",
+    name: "Figma",
     id: 16,
-    icon: <BiLogoPostgresql color="#0277BD" />,
+    icon: <FaFigma />,
+  },
+  {
+    name: "Adobe Xd",
+    id: 16,
+    icon: <SiAdobexd />,
+  },
+  {
+    name: "Photoshop",
+    id: 16,
+    icon: <SiAdobephotoshop />,
   },
 ];
 
