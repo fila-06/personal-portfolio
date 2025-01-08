@@ -1,7 +1,7 @@
+import { motion } from "framer-motion";
 import { FaLinkedin, FaTelegram } from "react-icons/fa";
 import { FaFacebook, FaYoutube } from "react-icons/fa6";
 import { SiUpwork } from "react-icons/si";
-import { motion } from "framer-motion";
 import fadeUp from "../utils/motion";
 
 const Footer = () => {
@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="mb-0 col-span-full lg:col-span-3 ">
             <a href="/" className="flex justify-center lg:justify-start">
               <span className="text-3xl font-bold text-primary-300">
-                Gc Family
+                FILMON ABADI
               </span>
             </a>
             <p className="py-8 text-primary-400 lg:max-w-xs text-center lg:text-left">
@@ -84,10 +84,9 @@ const Footer = () => {
             <ul className="text-primary-300  transition-all duration-500">
               <li className="mb-6 text-primary-500">
                 <a href="mailto:meleshaileselassie05@gmail.com">
-                  meleshaileselassie05@gmail.com
-                </a>
+                Filmonabadi23@gmail.com                </a>
               </li>
-              <li className="mb-6">+251 984 348 348</li>
+              <li className="mb-6">+251 934 611 479</li>
               <li>Adiss Abeba, Ethiopia.</li>
             </ul>
           </div>

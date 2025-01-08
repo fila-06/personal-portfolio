@@ -11,7 +11,7 @@ const projects = [
     },
     {
         title: "React Netflix Clone",
-        image: "projects/art.PNG",
+        image: "/projects/netflex.png",
         description: "React Netflix Clone is a project showcasing the development of a Netflix-like web application with React, featuring dynamic UI, movie browsing, and responsive design."
     },
     {

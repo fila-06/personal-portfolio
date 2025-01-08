@@ -79,7 +79,7 @@ const Navbar = () => {
     <div className="relative flex flex-col lg:flex-row px-6 w-full justify-between transition duration-300 ease-in-out origin-top">
       <div className="flex flex-row space-between">
         <div className="flex w-full items-center">
-          <a className="btn btn-ghost normal-case text-xl">GC-FAMILY</a>
+          <a className="btn btn-ghost text-xl uppercase">filmon abadi</a>
         </div>
         {/* navbar control */}
         <div id="navbar-control">
