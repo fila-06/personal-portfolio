@@ -27,8 +27,9 @@ const About = () => {
             initial="hidden"
             className="text-center p-4 text-lg text-slate-500 italic"
           >
-            "A coder can write code to make a computer do something. A
-            programmer can write code to make a human do something."
+            
+            &rdquo; A coder can write code to make a computer do something. A
+            programmer can write code to make a human do something. &rdquo;
           </motion.h2>
         </div>
 
@@ -40,12 +41,12 @@ const About = () => {
             initial="hidden"
             className="flex flex-col  rounded-lg shadow-md shadow-slate-800"
           >
-            <h1 className="text-3xl w-full text-center p-2">head one</h1>
+            <h1 className="text-3xl w-full text-center p-2 text-white italic font-bold underline"> My name is Filmon Abadi</h1>
             <motion.p
               variants={fadeUp(0.5, 0, "-100%", 0)}
               className="w-full text-start px-5 py-3"
             >
-              My name is Filmon Abadi, and I am a Computer Science student with
+              I am a Computer Science student with
               a passion for creating exceptional digital experiences. As a
               frontend developer, I specialize in building responsive and
               interactive web interfaces that prioritize usability and

@@ -1,28 +1,6 @@
-import { SiAdobephotoshop } from "react-icons/si";
-import { SiAdobexd } from "react-icons/si";
 import { FaFigma } from "react-icons/fa";
+import { SiAdobephotoshop, SiAdobexd } from "react-icons/si";
 /* eslint-disable react/prop-types */
-import { IoLogoHtml5 } from "react-icons/io";
-import Separator from "./Separator";
-import { IconContext } from "react-icons";
-import {
-  IoLogoCss3,
-  IoLogoJavascript,
-  IoLogoNodejs,
-  IoLogoPython,
-  IoLogoReact,
-} from "react-icons/io5";
-import { BiLogoPostgresql, BiLogoTailwindCss } from "react-icons/bi";
-import {
-  SiDjango,
-  SiExpress,
-  SiMongodb,
-  SiMui,
-  SiMysql,
-  SiNextui,
-} from "react-icons/si";
-import { TbBrandCoinbase } from "react-icons/tb";
-import { FaBootstrap, FaGit, FaGithub } from "react-icons/fa";
 import {
   motion,
   useAnimation,
@@ -31,7 +9,16 @@ import {
   useTransform,
 } from "framer-motion";
 import { useEffect, useRef } from "react";
+import { IconContext } from "react-icons";
+import { FaGit, FaGithub } from "react-icons/fa";
+import { IoLogoHtml5 } from "react-icons/io";
+import {
+  IoLogoCss3,
+  IoLogoJavascript,
+  IoLogoReact
+} from "react-icons/io5";
 import fadeUp from "../utils/motion";
+import Separator from "./Separator";
 
 const skillContainerVariants = {
   hidden: { opacity: 0, scale: 0.5 },
