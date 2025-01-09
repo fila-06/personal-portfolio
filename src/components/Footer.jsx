@@ -164,7 +164,7 @@ const Footer = () => {
         <div className="py-7 border-t border-primary-700">
           <div className="flex items-center justify-center flex-col lg:justify-between lg:flex-row">
             <span className="text-sm text-gray-500 ">
-              ©<a href="#">GC-Family</a> 2024, All rights reserved.
+              ©<a href="#">Filmon Abadi</a> 2025, All rights reserved.
             </span>
             <ul className="flex items-center gap-9 mt-4 lg:mt-0">
               <li>
