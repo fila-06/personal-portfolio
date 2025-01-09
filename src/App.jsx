@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 
 const App = () => {
   return (
-    <div className="bg-slate-950 text-white styled-scrollbar-hidden">
+    <div className="bg-slate-950 text-white styled-scrollbar-hidden overflow-auto">
       <>
         <Home />
         <ScrollToTop />
