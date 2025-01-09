@@ -19,21 +19,18 @@ const Hero = () => {
           <motion.p className="flex items-center text-start text-xl">
             Hello👋, My Name Is
           </motion.p>
-          <p className="flex items-center text-start text-3xl">
-            Filmon Abadi          </p>
+          <p className="flex items-center text-start text-3xl">Filmon Abadi </p>
           <h1 className="flex text-start text-2xl text-indigo-500">
-            I Am Frontend Developer
+            I Am Frontend Developer & UX/UI Designer
           </h1>
-          {/* <p className="flex p-2 text-start text-slate-300">
-            As a full-stack web developer with a passion for React and Django, I
-            thrive on bringing dynamic and efficient web solutions to life. With
-            React, I craft interactive user interfaces that engage and delight
-            users, leveraging its component-based architecture to create
-            seamless experiences and Django empowered robust backend systems.
-          </p> */}
-          <p className="flex p-2 text-start text-slate-300">
-            As a Frontend Developer, I excel in using Javascript and React to create scalable applications with seamless user experiences. I also leverage Vue.js for flexible front-end solutions and Node.js with TypeScript for efficient, maintainable back-end systems. My focus is on delivering high-performance, user-centric, and scalable web solutions.
 
+          <p className="flex p-2 text-start text-slate-300">
+            As a Frontend Developer and UI/UX Designer, I specialize in crafting
+            scalable applications with seamless user experiences using
+            JavaScript, React, and Vue.js. I also leverage tools like Figma,
+            Adobe XD, and Sketch to design intuitive, visually engaging
+            interfaces. My focus is on delivering high-performance,
+            user-centric, and aesthetically pleasing web solutions.
           </p>
           <Button className="flex py-6 px-4 shadow-sm bg-accent-500 text-xl outline-none text-slate-200">
             get in touch

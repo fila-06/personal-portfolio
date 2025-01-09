@@ -2,13 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
+/* body {
   font-family: Inter-Regular;
 }
 @font-face {
   font-family: "Inter-Regular";
   src: local("Inter-Regular"), url(/fonts/Inter-Regular.ttf) format("truetype");
-}
+} */
 
 @layer {
   *,

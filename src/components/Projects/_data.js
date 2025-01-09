@@ -1,13 +1,13 @@
 const projects = [
   {
     title: "Logo design using PhotoShop",
-    image: "/projects/netflex.png",
+    image: "/projects/logo-design.png",
     description:
       "Logo design using Photoshop creates custom, professional logos with creative concepts, refined typography, and scalable vector elements for your brand.",
   },
   {
     title: "React ToDo List",
-    image: "/projects/netflex.png",
+    image: "/projects/todo-list.jpg",
     description:
       "React ToDo List is a simple, interactive web application built with React, allowing users to add, edit, and delete tasks with an intuitive interface.",
   },
