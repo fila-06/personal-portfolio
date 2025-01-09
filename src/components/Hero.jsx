@@ -8,7 +8,7 @@ const Hero = () => {
       className="min-h-screen m-auto flex items-center justify-center flex-col-reverse gap-5 lg:flex-row w-full text-slate-300 bg-gradient-to-b from-primary-950 to-secondary-500  overflow-hidden p-5"
       id="hero"
     >
-      <div className="flex flex-col max-w-[960px] self-center md:flex-row">
+      <div className="flex flex-col max-w-[960px] self-center p-4 md:flex-row">
         {/* text section */}
         <motion.div
           className="flex flex-col gap-2 items-start justify-center"
